@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/asticode/go-astilog"
+	"github.com/tm4s/go-astilog"
 	"github.com/pkg/errors"
 )
 

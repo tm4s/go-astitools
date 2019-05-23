@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	astilog "github.com/asticode/go-astilog"
+	astilog "github.com/tm4s/go-astilog"
 	astiws "github.com/asticode/go-astiws"
 	"github.com/pkg/errors"
 )

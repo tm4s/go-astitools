@@ -7,7 +7,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/asticode/go-astilog"
+	"github.com/tm4s/go-astilog"
 )
 
 // Worker represents an object capable of blocking, handling signals and stopping

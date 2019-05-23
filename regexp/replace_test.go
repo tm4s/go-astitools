@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/asticode/go-astitools/regexp"
+	"github.com/tm4s/go-astitools/regexp"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -9,9 +9,9 @@ import (
 
 	"fmt"
 
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/defer"
-	"github.com/asticode/go-astitools/io"
+	"github.com/tm4s/go-astilog"
+	"github.com/tm4s/go-astitools/defer"
+	"github.com/tm4s/go-astitools/io"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/ssh"
 )

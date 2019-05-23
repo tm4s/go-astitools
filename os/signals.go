@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/asticode/go-astilog"
+	"github.com/tm4s/go-astilog"
 )
 
 type SignalsFunc func(s os.Signal)

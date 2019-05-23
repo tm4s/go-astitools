@@ -3,7 +3,7 @@ package astidebug_test
 import (
 	"testing"
 
-	"github.com/asticode/go-astitools/debug"
+	"github.com/tm4s/go-astitools/debug"
 	"github.com/stretchr/testify/assert"
 )
 
